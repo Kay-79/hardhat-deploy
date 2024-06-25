@@ -1,5 +1,0 @@
-{
-    "solidity.compileUsingRemoteVersion": "v0.8.20+commit.a1b79de6",
-    "solidity.compileUsingLocalVersion": "/Users/legend_k/WorkSpace/hardhat-deploy/soljson-v0.8.0+commit.c7dfd78e.js",
-    "solidity.defaultCompiler": "localFile"
-}
